@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-class Categories extends Component {
+class Category extends Component {
     render() {
         return (
             <div>
-
+                Category
             </div>
         )
     }
 }
 
 
-export default Categories;
+export default Category;

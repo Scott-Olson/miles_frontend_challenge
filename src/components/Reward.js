@@ -4,7 +4,7 @@ class Reward extends Component {
     render() {
         return (
             <div>
-
+                Reward
             </div>
         )
     }
