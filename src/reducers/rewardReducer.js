@@ -1,11 +1,11 @@
 import { NEW_REWARD, DEL_REWARD, MOVE_REWARD, SAVE_REWARDS } from '../actions/types';
+import React from 'react'
 
 const initialState = {
     rewards =[],
     categories =[],
 }
 
-import React from 'react'
 
 export default function rewardReducer() {
     switch (action.type) {
